@@ -96,7 +96,7 @@ public class SkeletonJava {
             int numar;
             do {
                 numar = readIntGUI("")
-            }
+
         }
         }
         }
