@@ -95,7 +95,7 @@ public class SkeletonJava {
             int suma;
             int numar;
             do {
-                numar = read
+                numar = readIntGUI("")
             }
         }
         }
